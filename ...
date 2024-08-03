@@ -1,0 +1,4 @@
+# command-line-arguments
+./main_dif.go:8:7: undefined: FunctionImpl
+./main_dif.go:17:11: undefined: Point
+./main_dif.go:21:16: undefined: Differential
